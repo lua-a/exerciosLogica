@@ -2,7 +2,7 @@
   <head>
     <title>lógica de programação</title>
     <script>
-      var nomeDoCarro = "Fusca"
+      var nomeDoCarro = "Fusca";
     </script>
   </head>
 </html>
