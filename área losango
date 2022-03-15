@@ -1,0 +1,10 @@
+<html>
+  <head>
+    <title>lógica de programação - losango</title>
+    <script>
+      var diagonalMa = prompt("insira o valor da diagonal maior:");
+      var diagonalMe = prompt("insira o valor da diagonal menor:")
+      alert("a área do losango é " + diagonalMa * diagonalMe / 2);
+    </script>
+  </head>
+</html>
