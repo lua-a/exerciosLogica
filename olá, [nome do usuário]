@@ -3,7 +3,7 @@
     <title>lógica de programação</title>
     <script>
       var nome = prompt("insira seu nome");
-      alert("Olá, " + nome)
+      alert("Olá, " + nome);
     </script>
   </head>
 </html>
