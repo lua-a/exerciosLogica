@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>lógica de programação - retângulo</title>
+    <script>
+      var lado = prompt("insira a medida do lado do quadrado:");
+      alert("a área do quadrado é " + lado * lado);
+    </script>
+  </head>
+</html>
